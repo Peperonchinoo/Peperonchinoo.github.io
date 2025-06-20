@@ -1,27 +1,15 @@
 +++
-title = "Home"
+title = "About"
 menu = "main"
 weight = 1
 +++
 
-# A match made in heaven
+# About
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+Hi! I'm Peperonchinoo (real name not being used for obvious reasons). I was inspired to start a blog by [Sproket's Small World](https://sproketsmallworld.blogspot.com/), a site dedicated to painting miniatures. As I have recently begun painting again, I thought it would be nice to **1**. document my journey so I could look back and see if I've improved, and **2**. possibly share my own thoughts on random things so that I or whoever cares to in the future may get some insight into who I am. But mostly I'm here for reason 1.
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+Some brief background: I started reading Warhammer 40,000 books somewhere in 5th grade, when a friend's older brother introduced me to the universe. Our school library (for whatever reason) carried WH40K books, and I ended up getting pretty into the setting for a few years. But I didn't actually buy my first miniature until I was in 8th grade, where I picked up a Start Collecting Necrons set at a local GW store, and I didn't actually buy any paint until something like 10th grade. At this point I painted very sparingly, and was much more focused on playing video games (and probably school/getting into college), and the hobby never really took off for me. Now in 2025 I am a graduate student, and still have a very limited amount of time to pursue any hobbies. However, I am much less interested in video games! And so in searching for new hobbies, I decided to revisit WH40K and painting.
 
-[Go to the original bear blog](https://bearblog.dev/).
+Here is an image of the first miniature I ever painted! It is 1/3rd of a scarab swarm :) and I lost everything else :).
 
----
-
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
-
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
-
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+![My first mini!](..Peperonchinoo.github.io/content/aboutimage/image1.jpg)
