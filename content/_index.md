@@ -12,7 +12,7 @@ Some brief background: I started reading Warhammer 40,000 books somewhere in 5th
 
 Here is an image of the first miniature I ever painted! It is 1/3rd of a scarab swarm :) and I lost everything else :).
 
-<img src="image1.JPG" alt="my first mini!" width="200"/>
+<img src="image1.JPG" alt="my first mini!" width="500"/>
 
-![My first mini](image1.JPG)
+It's picked up a bit of dust over the years...
 
