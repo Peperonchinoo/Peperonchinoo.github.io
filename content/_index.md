@@ -14,3 +14,5 @@ Here is an image of the first miniature I ever painted! It is 1/3rd of a scarab 
 
 ![My first mini](../content/aboutimage/image1.JPG)
 
+![My first mini](https://imgur.com/a/wZmveFp)
+
