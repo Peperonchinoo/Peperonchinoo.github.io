@@ -18,7 +18,7 @@ Given that the MkIII legeionaries were the most numerous model, I decided I woul
 
 I painted this guy a couple weeks before I decided to make this blog post and thus have no progress pictures. But I think for a first try in a long, long time, I did reasonably well. The only place I differed from the guide was on the gold/brass areas; instead of highlighting with Sycorax Bronze, I chose to highlight with the warmer Gehenna's Gold. For the skull on the backpack, I just did a base of Balthasar Gold and highlight/layer of Sycorax Bronze.
 
-![front](../content/blog/im1.JPG)
+![front](im1.JPG)
 
 <img src="im1.JPG" alt="front" width="600"/>
 
