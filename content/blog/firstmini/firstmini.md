@@ -20,7 +20,13 @@ I painted this guy a couple weeks before I decided to make this blog post and th
 
 ![image 1](/1.JPG)
 
-<img src="im1.JPG" alt="front" width="600"/> <img src="im2.JPG" alt="side1" width="600"/> <img src="im3.JPG" alt="back" width="600"/> <img src="im4.JPG" alt="side2" width="600"/>
+<img src="im1.JPG" alt="front" width="600"/>
+
+<img src="im2.JPG" alt="side1" width="600"/>
+
+<img src="im3.JPG" alt="back" width="600"/>
+
+<img src="im4.JPG" alt="side2" width="600"/>
 
 For my base, I painted the base Mournfang Brown before adding Agrellan Earth. Once that dried, I washed with Agrax Earthshade to darken it and give the cracks some more depth. I then applied Lahmian Medium over everything to protect the paint.
 
