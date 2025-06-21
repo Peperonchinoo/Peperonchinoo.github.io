@@ -10,8 +10,6 @@ tags = [
 ]
 +++
 
-## My first miniature in a long, long time!
-
 As I was deciding to get back into painting WH40K (or miniatures in general), the obvious first question I had to ask myself was what I was going to paint first. If I were just starting out completely fresh in the hobby, this decision would also involve agonizing over which faction I liked or thought looked the most interesting. Generally speaking, I think I like Necrons and various Chaos Space Marines. I'm not terribly picky though, I don't really intend to play the tabletop board game, I just enjoy the hobby aspect of painting (and potentially kitbashing/converting/sculpting if I get there). As such, I was thinking of picking up a necron combat patrol... but was reminded that in high school, I had bought a couple of box sets that had always just sat unpainted.
 
 This seemed to me like a great opportunity to get through a bit of my backlog/pile of shame and also get some practice painting again, on models that I didn't care *too* much about if I gave them a poor paintjob. So I cracked open my Burning of Prospero box; there are a lot of minis in here, including standard pre-heresy space marine legionaries in Mark III armor, Tartaros pattern terminators, Custodes, and Sisters of Silence. There are also two named figures, Geigor Fell-Hand for the Space Wolves and pre-heresy Ahriman (my goat) for the Thousand Sons. So a lot of variety, with the added benefit that if I were to finish painting the box, I'd have the ability to play a standalone game if I so desired.
