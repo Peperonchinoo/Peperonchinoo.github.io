@@ -20,7 +20,7 @@ Given that the MkIII legeionaries were the most numerous model, I decided I woul
 
 I painted this guy a couple weeks before I decided to make this blog post and thus have no progress pictures. But I think for a first try in a long, long time, I did reasonably well. The only place I differed from the guide was on the gold/brass areas; instead of highlighting with Sycorax Bronze, I chose to highlight with the warmer Gehenna's Gold. For the skull on the backpack, I just did a base of Balthasar Gold and highlight/layer of Sycorax Bronze.
 
-<img src="1.JPG" alt="front" width="600"/><img src="2.JPG" alt="front" width="600"/><img src="3.JPG" alt="front" width="600"/><img src="4.JPG" alt="front" width="600"/>
+<img src="1.JPG" alt="front" width="600"/> <img src="2.JPG" alt="back" width="600"/> <img src="3.JPG" alt="side1" width="600"/> <img src="4.JPG" alt="side2" width="600"/>
 
 For my base, I painted the base Mournfang Brown before adding Agrellan Earth. Once that dried, I washed with Agrax Earthshade to darken it and give the cracks some more depth. I then applied Lahmian Medium over everything to protect the paint.
 
