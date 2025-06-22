@@ -31,14 +31,15 @@ For my base, I painted the base Mournfang Brown before adding Agrellan Earth. On
 There are some areas where the paint isn't so neat, and when assembling this specific mini I had a lot of trouble getting the chainsword onto the back where it is supposed to go. To get around that I just cut it into two and had it sticking out of the ground, although I had to scrape off the crackle paint and couldn't convince plastic glue to hold, so I used superglue. Unfortunately I don't have a fine applicator so the blob of glue crept around and part of the sword looks a little fogged as a result. This chainsword also isn't actually meant to have both sides be visible, so the back of the handle area looks a little funky (but thankfully you can't see it too well due to the angle). I also struggled on the eyes, I was going for a more glowy effect but the Khorne Red went on a little too strong.
 
 Paint list (all Citadel)
-Chaos Black Spray
-Mechanicus Standard Grey
-Dawnstone
-Administratum Grey
-Balthasar Gold
-Sycorax Bronze
-Leadbelcher
-Stormhost Silver
-Abaddon Black
-Khorne Red
-White Scar
+
+* Chaos Black Spray
+* Mechanicus Standard Grey
+* Dawnstone
+* Administratum Grey
+* Balthasar Gold
+* Sycorax Bronze
+* Leadbelcher
+* Stormhost Silver
+* Abaddon Black
+* Khorne Red
+* White Scar
